@@ -1,0 +1,16 @@
+.form-header-text{
+  color: #262626;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 38px;
+  margin-bottom: 24px;
+  display: flex;
+  align-items: center;
+  &__error{
+    font-size: 14px;
+    line-height: 22px;
+    color: #F5222D;
+    margin-left: 15px;
+    font-weight: 400;
+  }
+}

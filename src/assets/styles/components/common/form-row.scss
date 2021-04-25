@@ -1,0 +1,7 @@
+.form-row{
+  @media screen and (min-width: 768px){
+    display: flex;
+    align-items: flex-start;
+    margin-bottom: 24px;
+  }
+}

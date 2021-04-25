@@ -1,0 +1,13 @@
+@import '../node_modules/normalize.css/normalize.css';
+@import "assets/styles/index";
+body{
+  font-family: sans-serif;
+  font-size: 16px;
+  outline: none;
+  box-sizing: border-box;
+}
+a{
+  color: #1890FF;
+  text-decoration: underline;
+  cursor: pointer;
+}

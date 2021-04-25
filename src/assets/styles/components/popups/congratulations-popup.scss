@@ -1,0 +1,26 @@
+.congratulations-popup{
+  @media(min-width: 768px){
+    .popup-box{
+      width: 547px;
+    }
+    .button{
+      width: 360px;
+      display: block;
+      margin: 0 auto;
+    }
+  }
+  &__header-text{
+    font-size: 24px;
+    line-height: 38px;
+    color: #262626;
+    text-align: center;
+    margin-bottom: 8px;
+  }
+  &__subheader-text{
+    color: #262626;
+    font-size: 20px;
+    line-height: 38px;
+    margin-bottom: 32px;
+    text-align: center;
+  }
+}
